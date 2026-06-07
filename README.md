@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  A secure utility to convert plain text to base64 and vice-versa instantly.
+  name: base64-encoder-decoder version: 1.0 type: Repository author: VarshuAi description: >   A secure utility to convert plain text to base64 and vice-versa instantly. primary_tech: CSS
 primary_tech: CSS
 ```
 
